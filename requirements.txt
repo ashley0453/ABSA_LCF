@@ -1,0 +1,7 @@
+numpy>=1.13.3
+torch>=0.4.0
+transformers>=3.5
+sklearn~=0.0.post11
+scikit-learn~=1.2.2
+sympy~=1.11.1
+spacy~=3.7.2
